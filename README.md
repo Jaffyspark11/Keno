@@ -1,0 +1,1 @@
+I was out for brunch one day and the Keno cards on the table had me intrigued. For each of the 12 ways to play, it gave the odds of winning for each amount of spots you pick. I decided I wanted to figure out the odds and the expected value for betting on Keno. I wrote this program in Python to help with the probability calculations.
